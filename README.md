@@ -1,0 +1,1 @@
+这是一个自定义将typora中的图片，上传到自己服务器对应位置的接口，接口很简单，就两个请求，如果你需要的话，请修改一下application.properties文件的内容，使用的时候，请配置[使用](https://github.com/qsyyke/typora-custom-command)
